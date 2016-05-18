@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Some Script Widget" max_length="40" name="x_snc_new_app_some_script_widget" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Script" max_length="4000" name="script" type="script"/>
+    </element>
+</database>
